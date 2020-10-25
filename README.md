@@ -14,8 +14,8 @@ Our client would like to offer a new cryptocurrency investment portfolio for its
 
 ## Result
 - Elbow Curve
-<img src="Elbow_Curve.PNG" width="600">
+<img src="Project/Elbow_Curve.PNG" width="600">
 - 3D Scatter Graph with PCA and clusters
-<img src="3D_Scatter_with_PCA.PNG" width="600">
+<img src="Project/3D_Scatter_with_PCA.PNG" width="600">
 - Sctater Graph 
-<img src="Scatter_Chart.PNG" width="600">
+<img src="Project/Scatter_Chart.PNG" width="600">
