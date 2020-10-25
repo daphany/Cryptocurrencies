@@ -9,7 +9,7 @@ Our client would like to offer a new cryptocurrency investment portfolio for its
 - Clustering Cryptocurrencies Using K-means
 - Visualizing Cryptocurrencies Results
 
-#Tools used
+## Tools used
 - Python 3.7
 
 ## Result
